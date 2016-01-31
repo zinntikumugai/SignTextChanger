@@ -1,0 +1,7 @@
+#
+#     SignTextChanger
+#      config.yml
+#
+Enable: true
+PlaceTime: 360
+ClickTime: 60
