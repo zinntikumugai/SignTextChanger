@@ -1,0 +1,9 @@
+name: SignTextChanger
+version: 0.0.25
+main: com.github.zinntikumugai.signtextchanger.SignTextChanger
+author: zinntikumugai
+
+
+commands:
+  sct:
+   decription: SignTextChanger
